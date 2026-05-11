@@ -13,22 +13,22 @@ L’ambiance oppressante, le peu de ressources et le besoin de coopérer sont l�
 
 # Mécaniques
 
-- [[Combat a Distance]]
-- Combat au corps à corps
-- Armes a feu
-- Sac à Dos
-- Lampe torche à UV
-- Compétences de personnages
-- Monstres
-- Hacking
-- Puzzles environnementaux
+- [[Mécaniques - Combat a Distance]]
+- [[Mécaniques - Combat au corps à corps]]
+- [[Mécaniques - Armes a feu]]
+- [[Mécaniques - Sac à Dos]]
+- [[Mécaniques - Lampe torche à UV]]
+- [[Mécaniques - Compétences de personnages]]
+- [[Mécaniques - Monstres]]
+- [[Mécaniques - Hacking]]
+- [[Mécaniques - Puzzles environnementaux]]
 
 # Controls
 
 - Déplacements
 - Interagir 
 - Ramasser 
-- Viser
+- [[Controls - Viser]]
 - Tirer
 - Attaquer 
 - Utiliser une interface

@@ -17,7 +17,6 @@ Infliger des dégâts : 
     
 - Si le joueur tire sur un point d’armure les dégâts de l’arme sont réduits
 
-
 ---
 
 ## Tutoriel
